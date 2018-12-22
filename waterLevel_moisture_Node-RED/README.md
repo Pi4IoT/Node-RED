@@ -1,6 +1,12 @@
 <h3>Raspberry Pi - Monitoring of Soil Moisture and Water Level with Node-RED</h3>
-
-
+To connect soil moisture and pressure sensor to the Raspberry Pi, you need an analogue digital converter.</br>
+In this case, I use an ADS1115 which it is a 4 channel -16Bit A/D converter.</br>
+What all you need:</br>
+Raspberry Pi</br>
+A/D Converter</br>
+Pressure Sensor MPX5010DP</br>
+Soil Moisture Sensor</br>
+</br>
 
 <a href="https://youtu.be/gJo88YZkhzc" target="_blank">
  <img src="https://user-images.githubusercontent.com/36192933/50377674-d0e70800-0621-11e9-9848-b41b02b2e1ac.png" alt="IMAGE ALT TEXT HERE" width="60" border="10" />
